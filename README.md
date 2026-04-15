@@ -33,6 +33,9 @@ src="https://img.shields.io/github/followers/Dr-Pierrot?logo=github&style=for-th
 
 <a href="https://github.com/Dr-Pierrot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Pierrot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Pierrot&bg_color=000000&color=ff00ee&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
@@ -46,5 +49,3 @@ src="https://img.shields.io/github/followers/Dr-Pierrot?logo=github&style=for-th
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dr-pierrot"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Pierrot&bg_color=000000&color=ff00ee&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
