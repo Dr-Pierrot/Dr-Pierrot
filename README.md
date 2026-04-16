@@ -23,17 +23,20 @@ Currently, I’m continuously improving my skills in modern web development, wor
 * 🧠  I'm currently learning Vue.js, Svelte
 
 ### Badges
-[![Visits Badge](https://badges.pufler.dev/visits/Dr-Pierrot/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Dr-Pierrot/psgc-api)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Dr-Pierrot)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Dr-Pierrot)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Dr-Pierrot)](https://badges.pufler.dev)
-
-
+[![Commits Badge](https://badges.pufler.dev/commits/daily/Dr-Pierrot)](https://badges.pufler.dev)
 
 
 <b>My GitHub Stats</b>
 
 <div align="center">
+  
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2041%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.92%20million%20lines%20of%20code-blue?style=flat)
+  
   <a href="http://www.github.com/Dr-Pierrot"><img src="https://github-readme-stats.vercel.app/api?username=Dr-Pierrot&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dr-Pierrot's GitHub stats" /></a>
   
   <a href="http://www.github.com/Dr-Pierrot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr-Pierrot&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -43,15 +46,29 @@ Currently, I’m continuously improving my skills in modern web development, wor
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Pierrot&bg_color=000000&color=ff00ee&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-<br />
+
+
+<br/>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Dr-Pierrot/human-resource-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Pierrot&repo=human-resource-management-system&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Dr-Pierrot/human-resource-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Pierrot&repo=human-resource-management-system&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-<br />
+<div width="100%" align="center">
+<a href="https://github.com/Dr-Pierrot/psgc-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Pierrot&repo=psgc-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-### Last Star
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p>Last Star</p>
+
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Dr-Pierrot?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
 ### Support Me
