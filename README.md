@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
   <a href="https://github.com/Dr-Pierrot">
     <picture>
-      <img alt="Dr-Pierrot's GitHub Profile README" src="https://raw.githubusercontent.com/Dr-Pierrot/Dr-Pierrot/main/me.png">
+      <img alt="Dr-Pierrot's GitHub Profile README" src="https://raw.githubusercontent.com/Dr-Pierrot/Dr-Pierrot/main/me2.png">
     </picture>
   </a>
 </div>
