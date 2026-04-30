@@ -17,16 +17,16 @@ I’m a passionate Fullstack Developer focused on building practical, real-world
 Currently, I’m continuously improving my skills in modern web development, working with both backend and frontend technologies to create complete and scalable solutions.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Jaycee Capulong](http://https://jaycee-9y6papjx1-dr-pierrots-projects.vercel.app/search)
-* ✉️  You can contact me at [jaycee.capulong@dct.edu.ph](mailto:jaycee.capulong@dct.edu.ph)
-* 🚀  I'm currently working on [Human Resource Management System](http://asdasd.asdasd)
+* 🖥️  See my portfolio at [Jaycee Capulong](https://dr-pierrot-portfolio.vercel.app/)
+* ✉️  You can contact me at [jaycee.capulong@dct.edu.ph](mailto:capulongako16@gmail.com)
+* 🚀  I'm currently working on [Human Resource Management System](https://github.com/Dr-Pierrot/human-resource-management-system)
 * 🧠  I'm currently learning Vue.js, Svelte
 
 ### Badges
-[![Visits Badge](https://badges.pufler.dev/visits/Dr-Pierrot/psgc-api)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Dr-Pierrot)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Dr-Pierrot)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/daily/Dr-Pierrot)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Dr-Pierrot/psgc-api)](https://github.com/Dr-Pierrot/)
+[![Years Badge](https://badges.pufler.dev/years/Dr-Pierrot)](https://github.com/Dr-Pierrot/)
+[![Repos Badge](https://badges.pufler.dev/repos/Dr-Pierrot)](https://github.com/Dr-Pierrot/)
+[![Commits Badge](https://badges.pufler.dev/commits/daily/Dr-Pierrot)](https://github.com/Dr-Pierrot/)
 
 
 <b>My GitHub Stats</b>
@@ -43,7 +43,7 @@ Currently, I’m continuously improving my skills in modern web development, wor
   
   <a href="https://github.com/Dr-Pierrot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Pierrot&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Pierrot&bg_color=000000&color=ff00ee&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Pierrot&bg_color=000000&color=ff00ee&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/Dr-Pierrot/)
 </div>
 
 
@@ -69,7 +69,7 @@ Currently, I’m continuously improving my skills in modern web development, wor
 
 <p>Last Star</p>
 
-[![Last Stars Display](https://badges.pufler.dev/last-stars/Dr-Pierrot?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/Dr-Pierrot?count=6&padding=15&perRow=3)](https://github.com/Dr-Pierrot/)
 
 ### Support Me
 
