@@ -18,7 +18,7 @@ Currently, I’m continuously improving my skills in modern web development, wor
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Jaycee Capulong](https://dr-pierrot-portfolio.vercel.app/)
-* ✉️  You can contact me at [jaycee.capulong@dct.edu.ph](mailto:capulongako16@gmail.com)
+* ✉️  You can contact me at [capulongako16@gmail.com](mailto:capulongako16@gmail.com)
 * 🚀  I'm currently working on [Human Resource Management System](https://github.com/Dr-Pierrot/human-resource-management-system)
 * 🧠  I'm currently learning Vue.js, Svelte
 
